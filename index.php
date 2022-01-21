@@ -45,7 +45,7 @@
         ?>
     </p>
 
-    <!-- Stampo la lunghezza de -->
+    <!-- Stampo la lunghezza del nuovo paragrafo -->
     <p>
         La lunghezza del paragrafo modificato è: <?php echo strlen($uncensored); ?>
     </p>
